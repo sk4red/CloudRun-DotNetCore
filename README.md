@@ -11,4 +11,6 @@ BigQuery is fully-managed. To get started, you don't need to deploy any resource
 
 You can find more information here - https://cloud.google.com/bigquery
 
-This applicaion was written using Visual Studio 2019 and targets .net core 3.1
+This application was written using Visual Studio 2019 and targets .net core 3.1
+
+The blog post that accompanies this can be found here - https://medium.com/@dfurmidge/building-serverless-net-data-apis-with-docker-on-the-google-cloud-platform-b1f840900009
